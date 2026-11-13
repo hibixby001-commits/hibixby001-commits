@@ -12,7 +12,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ### 📂 Portfolio
-- [**통합 포트폴리오 웹사이트**](https://hibixby001-commits.github.io/hibixby001-commits/) · 배포 설정 필요
+- [**통합 포트폴리오 웹사이트**](https://hibixby001-commits.github.io/hibixby001-commits/) · 스크롤형 반응형 웹사이트
 - [Python·Git 실습](./projects/python-study/) · 실제 코드
 - [수산화리튬 수입 의존도](./projects/lithium-import/) · Tableau 대시보드·시나리오 실습
 - [금융·시계열](./projects/finance-timeseries/) · 학습 관심 분야
