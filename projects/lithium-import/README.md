@@ -24,10 +24,10 @@
 ## How · 검토할 방법과 한계
 `P_Year`, `P_Target`, `P_Transfer`, `P_Extra` 등 Tableau 매개변수를 사용해 연도·대체국·전환 비율·추가 비용 조건을 변경하도록 구성되어 있습니다.
 
-**주의:** 여기서는 제공된 패키지의 구조와 계산 필드 존재를 확인했습니다. Tableau 화면에서 모든 시나리오를 직접 실행해 결과를 검증한 것은 아니므로 **절감액, 의존도 개선 폭, 통계적 인사이트 등을 임의로 제시하지 않습니다.** 또한 원본 파일을 이 GitHub 저장소에 업로드한 상태는 아닙니다.
+**주의:** 여기서는 제공된 패키지의 구조와 계산 필드 존재를 확인했습니다. Tableau 화면에서 모든 시나리오를 직접 실행해 결과를 검증한 것은 아니므로 **절감액, 의존도 개선 폭, 통계적 인사이트 등을 임의로 제시하지 않습니다.** 원본 Tableau 파일은 현재 저장소에 등록돼 있으며, Tableau 프로그램에서 직접 열어 검토할 수 있습니다.
 
 ## 추후 보완
-- [ ] [원본 `.twbx` 파일을 GitHub에 업로드](https://github.com/hibixby001-commits/hibixby001-commits/upload/main/projects/lithium-import) 후 여기에 다운로드 링크 추가
+- [x] [원본 Tableau 패키지(.twbx) 저장](https://github.com/hibixby001-commits/hibixby001-commits/blob/main/projects/lithium-import/3%EC%A1%B0%20-%20%ED%83%9C%EB%B8%94%EB%A3%A8.twbx)
 - [ ] 대시보드 스크린샷 2장과 출처·기간·표본 정의 정리
 - [ ] 전환 시나리오별 결과 및 가정 검증
 - [ ] 팀에서 담당한 개인 역할과 기여 내용 기재
