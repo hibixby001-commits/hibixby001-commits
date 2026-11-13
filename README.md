@@ -1,21 +1,26 @@
-# 👋 윤태호 | Junior Data Analyst
+# 윤태호 | Python 기반 데이터 분석
 
-> **Python으로 데이터를 분석하고, 의사결정에 필요한 인사이트를 만듭니다.**
+> **숫자를 읽고, 맥락을 찾습니다.** 산업·공정 데이터를 이해하고 설명하는 분석가를 지향합니다.
 
 🎓 **6개월 AI·데이터 분석 부트캠프 수료 예정**  
-🎯 **관심 분야** 제조·공정 데이터 · 공급망 분석 · 데이터 시각화
+🎯 **관심 분야** 제조·공정·안전 데이터, 공급망, 금융·시계열 분석
 
-## 🛠 Tech Stack
+### 🛠 Tech
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-## 📌 Project
-**수산화리튬 수입 의존도 분석** `Tableau`  
-- 국가별 수입 비중 분석 및 대체 공급국 전환 시나리오 시각화
+### 📂 Portfolio
+- [**통합 포트폴리오 웹사이트**](https://hibixby001-commits.github.io/hibixby001-commits/) · 배포 설정 필요
+- [Python·Git 실습](./projects/python-study/) · 실제 코드
+- [수산화리튬 수입 의존도](./projects/lithium-import/) · 분석 근거 보완 중
+- [금융·시계열](./projects/finance-timeseries/) · 학습 관심 분야
 
----
+### 📜 Qualifications
+산업안전기사 · 위험물산업기사 · ADsP · 컴퓨터활용능력 2급 · 자동차 운전면허
 
-**분석 흐름** `문제 정의 → 데이터 정제 → 탐색적 분석 → 시각화 → 인사이트`
+### 📝 Learning log
+[TIL · Why–What–How](./notes/2026-11-13-til.md) · [회고 · STAR](./notes/2026-11-13-retrospective.md) · [부검 · STAR](./notes/2026-11-13-postmortem.md)
+
+<sub>전공 학과명 확인 후 반영 예정 · 학습 단계와 성과를 구분해 기록합니다.</sub>
