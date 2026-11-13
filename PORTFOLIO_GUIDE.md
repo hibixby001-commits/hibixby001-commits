@@ -15,7 +15,7 @@
 
 - [x] **전공 반영 완료:** 에너지공학과 · README와 웹사이트
 - [ ] **자격증 표기 및 취득 상태 확인:** 산업안전기사, 위험물산업기사, ADsP, 컴퓨터활용능력 2급, 자동차 운전면허
-- [ ] **GitHub Pages:** 이 저장소의 Settings → Pages → Deploy from a branch → `main` / `docs` → Save
+- [x] **GitHub Pages 배포 확인:** `docs/index.html` 디자인 변경 커밋 `a38d5fb`의 Pages 배포 워크플로 성공 (2026-11-13). 게시 소스는 Settings → Pages에서 다시 확인 가능
 - [ ] 새 주소 `https://hibixby001-commits.github.io/hibixby001-commits/`에서 PC와 모바일 페이지 확인
 - [x] **Tableau 패키지 내부 구조 확인:** 대시보드 2개, 스토리 1개, 워크시트 13개 및 데이터 출처 확인
 - [x] **Tableau 원본 파일 업로드 확인:** `projects/lithium-import/3조 - 태블루.twbx` (GitHub main 브랜치)
