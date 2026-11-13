@@ -5,7 +5,7 @@
 | 경로 | 역할 |
 |---|---|
 | `README.md` | GitHub 프로필(보이는 내용 1,024자 이하 목표) |
-| `docs/index.html` | 모바일 반응형·스크롤형 포트폴리오 |
+| `docs/index.html` | 모바일 반응형·스크롤형 포트폴리오 (2026-11-13 디자인 갱신) |
 | `projects/python-study/` | 원본 Python/Git 실습 파일 보관본 |
 | `projects/lithium-import/` | 수산화리튬 공급망 분석 주제 |
 | `projects/finance-timeseries/` | 금융 시계열 학습 계획 |
@@ -18,7 +18,7 @@
 - [ ] **GitHub Pages:** 이 저장소의 Settings → Pages → Deploy from a branch → `main` / `docs` → Save
 - [ ] 새 주소 `https://hibixby001-commits.github.io/hibixby001-commits/`에서 PC와 모바일 페이지 확인
 - [x] **Tableau 패키지 내부 구조 확인:** 대시보드 2개, 스토리 1개, 워크시트 13개 및 데이터 출처 확인
-- [ ] **원본 \`3조 - 태블루.twbx\` 파일을 GitHub에 직접 업로드**하고 README에 파일 링크 추가 (현재 첨부 파일을 읽었지만 연결 도구로 GitHub에 바이너리 업로드는 하지 않음)
+- [x] **Tableau 원본 파일 업로드 확인:** `projects/lithium-import/3조 - 태블루.twbx` (GitHub main 브랜치)
 - [ ] 대시보드 스크린샷, 실제 결과 수치, 팀 내 담당 역할·기여도 확인
 - [ ] 향후 프로젝트마다 데이터 출처 → 문제 정의 → 전처리 → 분석 → 결과 → 한계 작성
 - [ ] 새 TIL, 회고, 부검은 GitHub 이슈로 작성하고 `notes/` 및 웹사이트에 반영
@@ -33,4 +33,4 @@
 
 ## 검증 구분
 
-수산화리튬은 이후 사용자로부터 **Tableau 패키지(.twbx) 원본을 전달받아 내부 구조·시트·대시보드·데이터 출처를 검토했습니다.** 다만 Tableau 원본 파일 자체는 아직 GitHub에 업로드되지 않았고, 최종 수치와 개인 기여도는 별도로 검증해야 합니다. 금융·시계열은 관심·학습 계획이며 결과물이 확인된 프로젝트는 아닙니다.
+수산화리튬은 이후 사용자로부터 **Tableau 패키지(.twbx) 원본을 전달받아 내부 구조·시트·대시보드·데이터 출처를 검토했습니다.** Tableau 원본 파일은 GitHub 저장소에 업로드됐으며, 최종 수치와 개인 기여도는 별도로 검증해야 합니다. 금융·시계열은 관심·학습 계획이며 결과물이 확인된 프로젝트는 아닙니다.
